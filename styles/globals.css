@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --ip-primary: #f58912;
+    --ip-secondary: #5f9821;
+}
