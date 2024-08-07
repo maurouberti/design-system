@@ -1,7 +1,7 @@
 import Button from "@/components/Button/Button";
 
 const App = () => {
-    return <Button className="text-primary">Hello World!</Button>
+    return <Button>Botão</Button>
 }
 
 export default App;
