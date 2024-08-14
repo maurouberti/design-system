@@ -3,7 +3,7 @@ import { Meta, StoryObj } from "@storybook/react"
 import Button, { ButtonProps } from "./Button"
 
 const meta: Meta<ButtonProps> = {
-    title: 'Molecules/Button',
+    title: 'Design System/Molecules/Button',
     component: Button,
     argTypes: {
         variant: {},
@@ -16,6 +16,7 @@ const meta: Meta<ButtonProps> = {
         className: {
             type: "string"
         },
+        onClick: { action: 'clicked' }
     }
 }
 
