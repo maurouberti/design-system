@@ -4,7 +4,11 @@
 
 # Criando um Design System com TailwindCSS
 
-[![Static Badge](https://img.shields.io/badge/GitHub-%23181717?logo=github&logoColor=%23ffffff)](https://github.com/alura-cursos/alfabit-design-system/tree/main)
+[![Static Badge](https://img.shields.io/badge/GitHub.Curso1-%23181717?logo=github&logoColor=%23ffffff)](https://github.com/alura-cursos/alfabit-design-system/tree/main)
+
+[![Static Badge](https://img.shields.io/badge/GitHub.Curso2-%23181717?logo=github&logoColor=%23ffffff)](https://github.com/alura-cursos/3172-alfabit-design-system/tree/main)
+
+[![Static Badge](https://img.shields.io/badge/GitHub.Curso3-%23181717?logo=github&logoColor=%23ffffff)](https://github.com/alura-cursos/alfabit-ds/tree/main)
 
 # Iniciar
 
