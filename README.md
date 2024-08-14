@@ -21,3 +21,8 @@ npm run storybook
 ```
 
 [http://localhost:6006/](http://localhost:6006/)
+
+# VS Code
+
+ESLint  
+Tailwind CSS IntelliSense  
