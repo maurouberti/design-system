@@ -1,7 +1,11 @@
 {
-  "name": "iplugged-design-system",
+  "name": "@maurouberti/design-system",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "description": "Alura Design System",
+  "keywords": ["design", "system", "alura"],
+  "author": "Mauro Uberti <maurouberti@hotmail.com>",
+  "license": "MIT",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -43,5 +47,12 @@
     "storybook": "^8.2.7",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"
-  }
+  },
+  "main": "components/index.ts",
+  "files": [
+    "styles/globals.css",
+    "tailwind.config.js",
+    "components/*",
+    "fonts/*"
+  ]
 }
